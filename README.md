@@ -17,7 +17,7 @@ Projects developed throughout 2020 during [DCI Web Development Course](https://d
 ## Projects
 * ### [First Portfolio](https://github.com/irinagastmaier/irinagastmaier.github.io): 
   HTML and CSS
-* ### [TributePage](/tribute-page):  
+* ### [Tribute Page](/tribute-page):  
   HTML and CSS
 * ### [Plant Website](/marakuja): 
   Bootstrap, HTML and CSS
