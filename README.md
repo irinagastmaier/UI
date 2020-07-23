@@ -6,7 +6,6 @@ Projects developed throughout 2020 during [DCI Web Development Course](https://d
 
 * HTML5
 * CSS3
-* JavaScript
 * SASS
 
 ## Tools: 
