@@ -1,0 +1,99 @@
+body {
+    background-color: #E7EDED;
+}
+
+#tribute {
+    background-color: rgba(248, 242, 242, 0.5);
+    margin: 15px auto;
+    width: 95%;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    color: rgb(49,49,49);
+    font-weight: 200;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.title, .img-div {
+    text-align: center;
+    background-color: white;
+    margin: 15px auto;
+    padding: 10px;
+}
+
+.img-div {
+    color: #313331;
+    }
+
+.img-caption cite {
+    color: rgb(49,49,49);
+}
+
+.img-caption {
+    color: rgba(49,49,49, 0.8);
+    text-align: center;
+}
+
+.tribute-info {
+    text-decoration: none;
+    text-align: center;
+}
+
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px rgb(49,49,49);;
+    font-style: italic;
+    color: color: rgb(49,49,49);;
+}
+
+aside > p {
+    margin: .5rem;
+}
+
+.info {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+        padding:0;
+        margin:0;
+        display: inline-block;
+		text-align:left;
+} 
+
+ul, li {
+    text-align: justify;
+    margin: 15px auto;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+blockquote {
+    padding-top: 10px;
+    text-align: center;
+    height: 10vh;
+}
+
+footer {
+    text-align: center;
+}
