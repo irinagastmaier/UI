@@ -22,4 +22,4 @@ Projects developed throughout 2020 during [DCI Web Development Course](https://d
 * ### [Plant Website](/marakuja): 
   Bootstrap, HTML and CSS
 * ### [GPS Company Website](/sass): 
-  HTML, CSS and SASS
+  HTML, CSS and SASS + Figma
