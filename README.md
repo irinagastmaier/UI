@@ -1,4 +1,4 @@
-# User Interface Basics and Programming Basics
+# User Interface and Programming Basics
 
 Projects developed throughout 2020 during [DCI Web Development Course](https://digitalcareerinstitute.org/courses/web-development-course)
 
