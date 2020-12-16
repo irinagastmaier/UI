@@ -21,5 +21,5 @@ Projects developed throughout 2020 during [DCI Web Development Course](https://d
   HTML and CSS
 * ### [Basic Retirement Plan Calculation](/js):
   JavaScript
-* ### [E-commerce Natural Beauty](/ecommerce-natural-beauty):
-  React, Redux, Redux-thunk, JavaScript, HTML, Bootstrap, Sass
+* ### [E-commerce Natural Beauty](https://github.com/irinagastmaier/ecommerce-natural-beauty):
+  React, Redux, Redux-thunk, JavaScript, HTML, Sass and Bootstrap
